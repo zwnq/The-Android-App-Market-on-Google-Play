@@ -1,4 +1,4 @@
-# **The-Android-App-Market-on-Google-Play**
+# **The Android App Market on Google Play**
 ![Google Play Logo](Source/img.jpg)
 
 This repository include/s the second project(s) under Data Scientist with Python career track from [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python), which entails loading, cleaning, and visualizing scraped Google Play Store data to gain insights into the Android app market.
@@ -13,5 +13,5 @@ This repository include/s the second project(s) under Data Scientist with Python
 >> *user_reviews.csv* : contains 100 reviews for each app, [most helpful first](https://www.androidpolice.com/2019/01/21/google-play-stores-redesigned-ratings-and-reviews-section-lets-you-easily-filter-by-star-rating/). The text in each review has been pre-processed, passed through a sentiment analyzer engine and tagged with its sentiment score.
 
 ## :keyboard: Projects
-- Guided Project
+- [Guided Project](https://github.com/zwnq/The-Android-App-Market-on-Google-Play/blob/main/Guided%20Project/notebook.ipynb)
 - Unguided Project
