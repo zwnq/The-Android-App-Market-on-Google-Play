@@ -1,5 +1,5 @@
 # **The-Android-App-Market-on-Google-Play**
-![Google Play Logo](Source/img.png)
+![Google Play Logo](Source/img.jpeg)
 
 This repository include/s the second project(s) under Data Scientist with Python career track from [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python), which entails loading, cleaning, and visualizing scraped Google Play Store data to gain insights into the Android app market.
 
