@@ -3,7 +3,7 @@
 
 This repository include/s the second project(s) under Data Scientist with Python career track from [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python), which entails loading, cleaning, and visualizing scraped Google Play Store data to gain insights into the Android app market.
 
-*Note: The pre-requisites of the project(s) are the courses: Joining Data with pandas and Python Data Science Toolbox (Part 1)*
+*Note: The pre-requisites of the project(s) are the courses: Joining Data with pandas, Introduction to NumPy, and Python Data Science Toolbox (Part 1)*
 
 ## :computer: Project Description (from DataCamp)
 > Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In these project/s, you will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. You'll look for insights in the data to devise strategies to drive growth and retention.
