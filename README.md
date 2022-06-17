@@ -14,4 +14,4 @@ This repository include/s the second project(s) under Data Scientist with Python
 
 ## :keyboard: Projects
 - [Guided Project](https://github.com/zwnq/The-Android-App-Market-on-Google-Play/blob/main/Guided%20Project/notebook.ipynb)
-- Unguided Project (not yet taken)
+- [Unguided Project](https://github.com/zwnq/The-Android-App-Market-on-Google-Play/blob/main/Unguided%20Project/notebook.ipynb)
